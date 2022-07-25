@@ -1,6 +1,6 @@
 # Script
 Basically lag servers, execute it twice, or quadruple times to intensify the power.
-Press keybind 'P' to lag
+Press keybind 'Z' to lag
 
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/SaucyDogg/hoopz-lag/main/SaucyDog.lua'))()
