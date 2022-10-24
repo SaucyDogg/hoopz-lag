@@ -9,4 +9,4 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/SaucyDogg/hoopz-lag/m
 Want the script without the loadstring?
 [SaucyDog.lua](https://github.com/SaucyDogg/hoopz-lag/blob/main/SaucyDog.lua)
 
-DISCLAMER: THIS SHIT IS NOT EWO'S!
+DISCLAIMER: THIS SHIT IS NOT EWO'S!
